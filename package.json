@@ -1,0 +1,22 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "integracion continua de jenkins + git + cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcantero90/CypressPlusJenkins.git"
+  },
+  "author": "Jonatan Cantero Atienza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcantero90/CypressPlusJenkins/issues"
+  },
+  "homepage": "https://github.com/Jcantero90/CypressPlusJenkins#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
